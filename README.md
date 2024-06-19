@@ -2,6 +2,16 @@
 
 A script I made for someone as a practical joke to their friend.
 
+## Create a Twilio account
+  * Go to Twilio's new account page
+  * Sign up for an account
+  * Enter your first name, last name, email address, and a password that meets Twilio's requirements
+  * Verify your email address
+  * Verify your phone number
+  * Select your country and enter your phone number
+  * Enter the verification code you received
+  * Follow the prompts to get started
+
 ## How to use
 
 1. Clone the repository
