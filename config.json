@@ -1,0 +1,7 @@
+{
+  "account_sid": "##################################",
+  "auth_token": "################################",
+  "recipient_number": "############",
+  "twilio_number": "############",
+  "last_message_length": 2
+}
