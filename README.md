@@ -2,7 +2,17 @@
 
 A script I made for someone as a practical joke to their friend.
 
-## Create a Twilio account
+## How to use
+
+1. Clone the repository
+2. Create a twilio account.
+3. Edit the config.json file with your Twilio settings
+4. Run the script with the following command:
+
+```bash
+python3 spoiler.py
+```
+## How to create a Twilio account
   * Go to Twilio's new account page
   * Sign up for an account
   * Enter your first name, last name, email address, and a password that meets Twilio's requirements
@@ -12,16 +22,7 @@ A script I made for someone as a practical joke to their friend.
   * Enter the verification code you received
   * Follow the prompts to get started
 
-## How to use
-
-1. Clone the repository
-2. Run the script with the following command:
-
-```bash
-python3 spoiler.py
-```
-
-3. Follow the instructions on the screen
+4. Follow the instructions on the screen
 
 ## How it works
 
