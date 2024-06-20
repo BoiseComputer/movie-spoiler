@@ -1,6 +1,6 @@
 # movie-spoiler
 
-A script I made for someone as a practical joke to their friend.
+A script I made for someone as a practical joke to their friend. This allows you to use something like Tautulli Notification Agents to work with Plex to send a text notification. Currently the script looks up a string that exists on IMDB using an API, but you can customize it as you see fit.
 
 ## How to use
 
